@@ -1,4 +1,4 @@
-#this is a version control test program
+#this is a version control test program for github
 
 version = '0.1.1'
 
